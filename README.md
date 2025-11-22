@@ -56,7 +56,7 @@ The above step will store the filtered signals in:
 Use the provided shell script to run both the pretraining (SSL) and downstream tasks:
 
 ```bash
-sh run_ssl_plus_downstream.sh <num_participants> <num_epochs_downstream> <save_dir_ssl> <save_dir_downstream> <task> <dataset> <raw_data_dir>
+sh run_ssl_plus_downstream.sh <num_participants> <num_epochs_downstream> <num_epochs_downstream> <num_epochs_ssl> <dataset> <filtered_data_dir> <input_len>
 ```
 
 #### Argument Description
