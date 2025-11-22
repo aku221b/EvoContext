@@ -1,0 +1,16 @@
+numpy
+pandas
+torch
+torchvision 
+scikit-learn
+matplotlib
+scipy
+h5py
+tqdm
+pyedflib
+tensorboardX
+networkx
+mne
+dotted-dict
+torch-geometric
+more-itertools
