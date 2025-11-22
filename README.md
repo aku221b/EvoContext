@@ -1,6 +1,6 @@
-# STAGSMOTE
+# EvoContext
 
-**STAGSMOTE** is a state-of-the-art (SOTA) **asymmetric time-then-graph GNN encoder** with a **DCRNN decoder architecture** for self-supervised learning on EEG data.
+**EvoContext** is a state-of-the-art (SOTA) **asymmetric time-then-graph GNN encoder** with a **DCRNN decoder architecture** for self-supervised learning on EEG data.
 
 ---
 
